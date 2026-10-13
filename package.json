@@ -1,0 +1,12 @@
+{
+  "name": "giftflow",
+  "version": "1.0.0",
+  "description": "GiftFlow TikTok LIVE interaction dashboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
